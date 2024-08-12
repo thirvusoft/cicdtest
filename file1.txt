@@ -1,2 +1,4 @@
-Tiis is the test file am going to add in git repo for continious deployment process testing.
-In the phase 1 i create asample file in mac, push it to main branch with my first commit.
+1.This is the test file am going to add in git repo for continious deployment process testing.
+2.In the phase 1 i create asample file in mac, push it to main branch with my first commit.
+3.Now i successfully configured branch protuction rule for main branch and also require atleast 1 Pull request to merge  code in main branch
+4.checked difference between ruleset and classic branch protection rule.
