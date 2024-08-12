@@ -1,1 +1,2 @@
-Tiis is the test file am goig to add in git repo for continious deployment process testing.
+Tiis is the test file am going to add in git repo for continious deployment process testing.
+In the phase 1 i create asample file in mac, push it to main branch with my first commit.
